@@ -1,7 +1,3 @@
-# instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
-Fixed errors in previous code
-
 # Instagram Clone
 ## Live Link: https://main--astounding-medovik-12964a.netlify.app/
 Instagram web application was visually cloned using css and bootstrap.
